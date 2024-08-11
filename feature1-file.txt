@@ -1,0 +1,2 @@
+Major feature for next release
+smth do - commit1
