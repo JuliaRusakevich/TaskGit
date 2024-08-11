@@ -1,2 +1,3 @@
 smth do - commit1
 smth do - commit2
+smth do - commit3 : from commit3 -> branch-feature1, branch-feature2
