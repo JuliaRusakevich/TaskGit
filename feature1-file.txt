@@ -1,3 +1,4 @@
 Major feature for next release
 smth do - commit1
 smth do - commit2
+smth do - commit3 : finished develop feature
