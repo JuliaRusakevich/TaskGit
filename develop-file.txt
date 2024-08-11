@@ -7,3 +7,4 @@ smth do - commit6
 smth do - commit7
 smth do - commit8 : merge develop / release-v1.0, fixed bug
 smth do - commit9 : added feature2 + added feature3 -> release-v2.0
+smth do - commit10 : continue developing
