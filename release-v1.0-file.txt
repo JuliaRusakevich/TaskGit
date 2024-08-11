@@ -1,2 +1,3 @@
 Start of release branch for 1.0
 smth do - commit2 : -> develop
+smth do - commit3 : only bugfixes!
