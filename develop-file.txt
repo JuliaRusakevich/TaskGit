@@ -3,3 +3,6 @@ smth do - commit2
 smth do - commit3 : from commit3 -> branch-feature1, branch-feature2
 smth do - commit4
 smth do - commit5 : Incorporate bugfix in develop / hotfix-0.2
+smth do - commit6
+smth do - commit7
+smth do - commit8 : merge develop / release-v1.0, fixed bug
