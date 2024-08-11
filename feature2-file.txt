@@ -1,2 +1,3 @@
 Feature fo future release
-smth to -commit1
+smth do - commit1
+smth do - commit2
