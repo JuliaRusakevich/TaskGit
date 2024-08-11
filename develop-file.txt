@@ -1,1 +1,2 @@
 smth do - commit1
+smth do - commit2
