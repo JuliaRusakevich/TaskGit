@@ -1,0 +1,4 @@
+Start of release branch for 1.0
+smth do - commit2 : -> develop
+smth do - commit3 : only bugfixes!
+smth do - commit4 : only bugfixes, -> master tag 1.0, -> develop
