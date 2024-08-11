@@ -1,3 +1,4 @@
 Feature fo future release
 smth do - commit1
 smth do - commit2
+smth do - commit3
